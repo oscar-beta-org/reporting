@@ -596,7 +596,7 @@ testClusters.integTest {
     }
 }
 
-String baseVersion = "2.20.1"
+String baseVersion = "2.20.9"
 String bwcVersion = baseVersion + ".0"
 String baseName = "reportsSchedulerBwcCluster"
 String bwcFilePath = "src/test/resources/bwc"
