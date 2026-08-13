@@ -1,4 +1,4 @@
-## 2020-11-30 Version 1.12.0.0 (test)
+## 2020-11-30 Version 1.12.0.0
 
 ### Features
 * Lock Edit report source and Input Validation ([#225](https://github.com/opendistro-for-elasticsearch/kibana-reports/pull/225))
